@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513804199247.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "91578785",
+    "id" : "8B9C04D1",
+    "lastKnownWriteTime" : 1515184940,
+    "last_content_update" : 1515184940041,
+    "path" : "W:/_chirps/_codes/_chirps/6_selectSeasons.R",
+    "project_path" : "6_selectSeasons.R",
+    "properties" : {
+        "cursorPosition" : "88,34",
+        "scrollLine" : "74"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

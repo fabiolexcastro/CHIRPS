@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1515509944168.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3196158527",
+    "id" : "4D01F64A",
+    "lastKnownWriteTime" : 1515515013,
+    "last_content_update" : 1515515014033,
+    "path" : "W:/_chirps/_codes/_chirps/8_comparisonTrends.R",
+    "project_path" : "8_comparisonTrends.R",
+    "properties" : {
+        "cursorPosition" : "26,20",
+        "scrollLine" : "13"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

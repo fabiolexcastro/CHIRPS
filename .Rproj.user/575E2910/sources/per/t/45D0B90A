@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1513801483920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1837428771",
+    "id" : "45D0B90A",
+    "lastKnownWriteTime" : 1513890407,
+    "last_content_update" : 1513946874860,
+    "path" : "W:/_chirps/_codes/_chirps/7_slopeSeason.R",
+    "project_path" : "7_slopeSeason.R",
+    "properties" : {
+        "cursorPosition" : "2,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
