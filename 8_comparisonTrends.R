@@ -3,13 +3,9 @@
 require(raster)
 require(rgdal)
 require(tidyverse)
-require(magrittr)
-require(ggplot2)
-require(trend)
 require(sf)
 require(stringr)
 require(data.table)
-require(sf)
 
 # Initial setup
 rm(list = ls())
@@ -47,3 +43,4 @@ load(file = '_rData/dry_season_wc.rData')
 dry <- match_ssn(shp_ch = dry_ssn_ch, shp_wc = dry_ssn_wc)
 wet <- match_ssn(shp_ch = wet_ssn_ch, shp_wc = dry_ssn_wc)
 
+1+1
